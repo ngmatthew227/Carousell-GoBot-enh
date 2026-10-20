@@ -6,3 +6,6 @@ carousell-gobot
 cfg/
 config.yaml
 state.json
+*.har
+*.exe
+.vscode/tasks.json
